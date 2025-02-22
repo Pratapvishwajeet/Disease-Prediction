@@ -4,7 +4,7 @@
 
 🛠️ Technologies Used Python 🐍 Streamlit (for UI) Scikit-learn (for model training) Pandas & NumPy (for data processing) Pickle (for model storage) ⚡ Features ✔ Predicts Diabetes, Heart Disease, and Parkinson’s Disease ✔ User-friendly Streamlit interface ✔ Models trained on real-world datasets ✔ Fast and accurate results
 
-🚀 How to Run 1️⃣ Clone the repository: git clone https://github.com/Akshitha-Mothkur/disease-prediction cd disease-prediction
+🚀 How to Run 1️⃣ Clone the repository: git clone  https://github.com/Pratapvishwajeet/disease-prediction cd disease-prediction
 
 2️⃣ Install dependencies: pip install -r requirements.txt
 
